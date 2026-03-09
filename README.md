@@ -12,3 +12,5 @@ Northspyre is a cloud-based real estate development management and intelligence 
 
 ## Elist Electronics
 Elist Electronics, founded in 2018, is a global e-commerce company that sells popular electronic products through its website and mobile app. Although the company has accumulated extensive data across areas such as sales, marketing, operations, product performance, and its loyalty program, much of this information has historically been underutilized. This project analyzes and synthesizes these datasets to uncover meaningful insights that can inform strategic decisions, improve operational efficiency, and drive stronger commercial performance for Elist.
+
+[GO TO PROJECT](https://github.com/chrismatt4190/Elist_Electronics_Analysis)
