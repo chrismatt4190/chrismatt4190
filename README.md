@@ -1,4 +1,4 @@
-# Chris Matthews
+# Christopher Matthews
 # Work Demos
 ## MLT Talent Placement Pipeline Analysis
 Management Leadership for Tomorrow (MLT) operates as a talent marketplace connecting employers, educational institutions, and high-potential talent to drive stronger business outcomes. As a business accelerator, MLT helps organizations recruit, retain, and develop talent across the early-career and mid-career pipeline while also advising partners on effective, data-informed talent strategies.
